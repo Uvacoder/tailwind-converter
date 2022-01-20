@@ -35,7 +35,7 @@ const IndexPage = () => {
                     editorErrors={editorErrors}
                 />
                 <a
-                    href="https://github.com/stevezease/tailwind-converter"
+                    href="https://github.com/uvacoder/tailwind-converter"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
